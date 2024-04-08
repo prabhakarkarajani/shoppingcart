@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "CRUSHER® EVO",
+    "price": 169.99,
+    "description": "Sensory Bass Headphones with Personal Sound",
+    "color": "Black",
+    "image": "https://www.skullcandy.com/cdn/shop/files/crusher_evo_buy_box_true_black_1_400x.png?v=1709673991"
+  },
+  {
+    "id": 2,
+    "name": "SKULLCANDY ECOBUDS™ ",
+    "price": 39.99,
+    "description": "Sustainable True Wireless Earbuds.",
+    "color": "Red",
+    "image": "https://www.skullcandy.com/cdn/shop/files/BuyBox_EcoBuds_1_400x.png?v=1708731952"
+  },
+  {
+    "id": 3,
+    "name": "Kilo",
+    "price": 49.99,
+    "description": "Wireless Bluetooth® Portable Speaker",
+    "color": "White",
+    "image": "https://www.skullcandy.com/cdn/shop/files/kilo_buy_box_AcidCamoPink_1_400x.png?v=1709662811"
+  },
+  {
+    "id": 4,
+    "name": "HESH® EVO",
+    "price": 119.99,
+    "description": "TRIPLE THREAT SUNSET",
+    "color": "Blue",
+    "image": "https://www.skullcandy.com/cdn/shop/files/Hesh_evo_buy_box_TT_Sunset_1_360x.png?v=1709649109"
+  },
+  {
+    "id": 5,
+    "name": "CRUSHER® EVO",
+    "price": 209.99,
+    "description": "BURTON X SKULLCANDY NAUGHTY NATURE",
+    "color": "Black/Red",
+    "image": "https://www.skullcandy.com/cdn/shop/files/NewBurtonCrusherRender_360x.png?v=1710517229"
+  },
+  {
+    "id": 6,
+    "name": "Grom Wired",
+    "price": 69.99,
+    "description": "Wired Kids Headphones",
+    "color": "Green",
+    "image": "https://www.skullcandy.com/cdn/shop/files/grom_wired_buy_box_bone_1_400x.png?v=1709668541"
+  },
+  {
+    "id": 7,
+    "name": "PLYR",
+    "price": 29.99,
+    "description": "Multi-Platform Wireless Gaming Headset",
+    "color": "Gray",
+    "image": "https://www.skullcandy.com/cdn/shop/files/plyr_buy_box_black_digi_hype_2_400x.png?v=1709650075"
+  },
+  {
+    "id": 8,
+    "name": "Skullcandy Wireless Speaker",
+    "price": 89.99,
+    "description": "Bring the party wherever you go with this wireless speaker from Skullcandy.",
+    "color": "Purple",
+    "image": "https://img.freepik.com/premium-photo/cool-earphones-with-blue-background_23-2150271766.jpg?w=826"
+  },
+  {
+    "id": 9,
+    "name": "Skullcandy Sports Earbuds",
+    "price": 39.99,
+    "description": "Stay motivated during workouts with these sweat-resistant sports earbuds from Skullcandy.",
+    "color": "Yellow",
+    "image": "https://img.freepik.com/free-psd/headphone-headset-icon-isolated-3d-render-illustration_439185-11397.jpg?w=826&t=st=1712047227~exp=1712047827~hmac=1dff8ee83b81db21df39e5e449a9d660d246ebe0fdc89f2f2abe243189b39418"
+  },
+  {
+    "id": 10,
+    "name": "Skullcandy On-Ear Headphones",
+    "price": 59.99,
+    "description": "Experience powerful sound in a compact design with these on-ear headphones from Skullcandy.",
+    "color": "Orange",
+    "image": "https://www.skullcandy.com/cdn/shop/files/plyr_buy_box_tmnt_2.png?v=1709705773"
+  },
+  {
+    "id": 11,
+    "name": "Skullcandy On-Ear Headphones",
+    "price": 59.99,
+    "description": "Experience powerful sound in a compact design with these on-ear headphones from Skullcandy.",
+    "color": "Orange",
+    "image": "https://img.freepik.com/free-psd/levitating-headphones-still-life_23-2150806982.jpg?w=740&t=st=1712047255~exp=1712047855~hmac=7ca62e04a7a6266f962bc2c056b4dad11dd44962424a5c0032f4d2dc0710ea99"
+  }
+]
